@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Awesomeweb/static/css/main.d7586cf6.chunk.css",
+    "main.js": "/Awesomeweb/static/js/main.a8b5a167.chunk.js",
+    "main.js.map": "/Awesomeweb/static/js/main.a8b5a167.chunk.js.map",
+    "runtime-main.js": "/Awesomeweb/static/js/runtime-main.c5a1e476.js",
+    "runtime-main.js.map": "/Awesomeweb/static/js/runtime-main.c5a1e476.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Awesomeweb/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6d8015e5.chunk.js": "/Awesomeweb/static/js/2.6d8015e5.chunk.js",
+    "static/js/2.6d8015e5.chunk.js.map": "/Awesomeweb/static/js/2.6d8015e5.chunk.js.map",
+    "index.html": "/Awesomeweb/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Awesomeweb/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.d7586cf6.chunk.css.map": "/Awesomeweb/static/css/main.d7586cf6.chunk.css.map",
+    "static/js/2.6d8015e5.chunk.js.LICENSE.txt": "/Awesomeweb/static/js/2.6d8015e5.chunk.js.LICENSE.txt",
+    "static/media/Nature2.c82d7464.png": "/Awesomeweb/static/media/Nature2.c82d7464.png",
+    "static/media/img10.faba79d0.jpg": "/Awesomeweb/static/media/img10.faba79d0.jpg",
+    "static/media/img11.5a99724b.jpg": "/Awesomeweb/static/media/img11.5a99724b.jpg",
+    "static/media/img5.bcd9d30d.jpg": "/Awesomeweb/static/media/img5.bcd9d30d.jpg",
+    "static/media/img6.46a28442.jpg": "/Awesomeweb/static/media/img6.46a28442.jpg",
+    "static/media/img8.f143d66a.jpg": "/Awesomeweb/static/media/img8.f143d66a.jpg",
+    "static/media/img9.cbfd5d3d.jpg": "/Awesomeweb/static/media/img9.cbfd5d3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5a1e476.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6d8015e5.chunk.js",
+    "static/css/main.d7586cf6.chunk.css",
+    "static/js/main.a8b5a167.chunk.js"
+  ]
+}
