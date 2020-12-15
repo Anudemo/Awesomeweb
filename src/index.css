@@ -20,13 +20,14 @@
 .navbar a{
   font-size: 1.3rem;
   text-transform: capitalize;
+  color: #fff;
 }
 .navbar a:hover{
   color:red;
 } 
 .menu_avtive{
   font-weight: bold;
-  border-bottom:1px solid #565387;
+  border-bottom:;
 }
 #header
 {
@@ -85,4 +86,41 @@
   100%{
     transform: translateY(-10px);
   }
+}
+
+#menu-icon
+{
+  display:none;
+}
+
+
+#slideout-menu
+{
+  display: none;
+  background: #2d3436;
+  z-index: 100;
+  position: fixed;
+  transition: 0.4s;
+  margin-top: 50px;
+  width: 100%;
+  text-align: center;
+  
+  opacity: 0;
+  pointer-events:none;
+  
+}
+#slideout-menu ul
+{
+list-style: none;
+padding: 0 32px;
+}
+@media (max-width:800px)
+{
+  #menu-icon{
+    display: flex;
+  }
+  #slideout-menu{
+    display:block;
+  }
+  
 }

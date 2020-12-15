@@ -1,5 +1,7 @@
 import React from 'react';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+
 import { Redirect, Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import About from './About';
