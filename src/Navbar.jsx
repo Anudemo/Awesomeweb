@@ -8,13 +8,13 @@ const Navbar=()=>{
     const slideoutmenu=document.getElementById("slideout-menu");
       
       
-     if(slideoutmenu.style.opacity=="1")
+     if(slideoutmenu.style.opacity=="0")
      {
-     slideoutmenu.style.opacity='0';
+     slideoutmenu.style.opacity='1';
      slideoutmenu.style.pointerEvents='none';
     }
     else{
-    slideoutmenu.style.opacity='1';
+    slideoutmenu.style.opacity='0';
     slideoutmenu.style.pointerEvents='auto';
 
 }
